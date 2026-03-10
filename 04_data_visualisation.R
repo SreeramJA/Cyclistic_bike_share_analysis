@@ -183,8 +183,5 @@ bike_ride_frequency_graph <- bike_share_25 %>%
 print(bike_ride_frequency_graph)
 
 
-sessionInfo()
+sessionInfo() 
 # ------------ END OF DATA VISUALISATION SCRIPT ------------  
-
-
-
