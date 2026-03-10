@@ -55,7 +55,7 @@ bike_share_25$month_of_ride <- factor(
 )
 
 
-# DATA VISUALISATIONS 
+# === DATA VISUALISATIONS === 
 
 
 # 1) USER TYPE DISTRIBUTION GRAPH
@@ -186,4 +186,5 @@ print(bike_ride_frequency_graph)
 
 sessionInfo()
 # ------------ END OF DATA VISUALISATION SCRIPT ------------  
+
 
