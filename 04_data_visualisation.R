@@ -55,7 +55,6 @@ bike_share_25$month_of_ride <- factor(
 )
 
 
-
 # DATA VISUALISATIONS 
 
 
@@ -187,3 +186,4 @@ print(bike_ride_frequency_graph)
 
 sessionInfo()
 # ------------ END OF DATA VISUALISATION SCRIPT ------------  
+
