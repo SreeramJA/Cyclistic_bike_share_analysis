@@ -1,8 +1,10 @@
-Introduction
+#Introduction
+
 Welcome to the Cyclistic bike-share analysis case study! This case study is part of the Google Data Analytics Professional Certificate – Capstone Project, where the objective is to apply the end-to-end data analysis process to a real-world dataset.
 In this case study, I take on the role of a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago. along with some key team members. The goal of this analysis is to answer key business questions that will support the marketing team in designing strategies to convert casual riders into annual members, thereby driving long term growth for the company.
  In order to answer the business questions, I will be following the data analyst process framework: Ask, Prepare, Process, Analyse, Share, and Act. This structured framework ensures that the analysis remains systematic, transparent and aligned with the business objectives.
-Stakeholders & Team
+ 
+#Stakeholders & Team
 •	Lily Moreno – Director of Marketing: Lily Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. These may include email, social media, and other channels. 
 •	Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analysing, and reporting data that helps guide Cyclistic marketing strategy. I am part of such a team. 
 •	Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program. 
