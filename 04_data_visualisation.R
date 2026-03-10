@@ -124,8 +124,7 @@ bike_type_ride_time_graph <- bike_share_25 %>%
   theme_classic() 
 
 print(bike_type_ride_time_graph)
-# Classic bikes used by both the user segments have a higher avg ride duration than electric bikes-
-# used by the same.
+# Classic bikes used by both the user segments have a higher avg ride duration than electric bikes used by the same.
 
 
 # 5) WEEKLY RIDE PATTERN
@@ -186,5 +185,6 @@ print(bike_ride_frequency_graph)
 
 sessionInfo()
 # ------------ END OF DATA VISUALISATION SCRIPT ------------  
+
 
 
