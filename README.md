@@ -228,6 +228,8 @@ Each visualisation was designed with a user-centric approach, ensuring that the 
 
 These findings strengthen the initial assessment that annual members may utilise the service for routine travel / commuting and casual riders for leisure or recreational purposes.
 
+The insights from the analysis provide a foundation for actionable business recommendations.
+
 ---
 
 # STAGE 6 - ACT
@@ -248,6 +250,9 @@ By leveraging these insights and recommendations, Cyclistic can implement target
 
 - Leverage peak season demand by introducing various membership schemes during high activity months.
 
+By aligning marketing strategies with observed rider behaviour, Cyclistic can more effectively target high-potential casual riders and encourage them to
+transition into annual members. Increasing the proportion of annual members would support Cyclistic’s long-term profitability, improve customer retention, and strengthen the sustainability of the bike-share program.
+
 ---
 
 ## Limitations
@@ -260,4 +265,4 @@ By leveraging these insights and recommendations, Cyclistic can implement target
 
 More data on customer segments, rider profiles etc can open doors to a deeper analysis and welcome more insights needed for decision-making.
 
-##### Note - The entire analysis is created in a reproducable manner and can be recreated by following each part step by step
+##### Note - The entire analysis is created in a reproducable manner and can be recreated by following each part step by step.
