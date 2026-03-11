@@ -171,6 +171,37 @@ The visualisations highlight patterns such as:
 
 Each visualisation was designed with a user-centric approach, ensuring that the findings could be easily understood and interpreted by decision-makers.
 
+## Data Visualisations
+### Ride Distribution Across User Segments Chart
+![Ride Volumne by User Segment](images/ride_distribution_graph.png)
+- Annual members make up the core majority of user segments.
+
+### Average Ride Duration Chart
+![](images/avg_ride_duration_graph.png)
+- Casual riders display a higher average ride duration over annual members.
+
+### Bike Type Preference Chart
+![](images/bike_type_preference_graph.png)
+- Both the user segments made the most rides with electric bikes.
+
+### Average Ride Duration by Bike Type Chart
+![](images/bike_type_ride_duration.png)
+- Classic bikes used by both the user segments have a higher avg ride duration than electric bikes used by the same.
+
+### Weekly Ride Pattern Chart
+![](images/weekly_ride_pattern_graph.png)
+- Annual members display constant ride activity during weekdays.
+- Casual riders show increased ride activity during weekends.
+
+### Monthly Ride Pattern Chart
+![](images/montlhly_ride_pattern_graph.png)
+- Both the user segments show increased ride activity during summer and a dip in ride activity during winter.
+
+### Bike Ride Frequency Chart
+![](images/bike_ride_frequency.png)
+- Annual members display increased ride activity during typical commuting hours of morning's and evening's, suggesting a pattern of commuting / travel activities.
+- Casual riders display increased ride activity during evenings, suggesting a pattern of leisure / recreational activities.
+
 ---
 
 # Key Findings
@@ -201,7 +232,13 @@ These findings strengthen the initial assessment that annual members may utilise
 
 # STAGE 6 - ACT
 
-Based on the patterns and trends identified during the analysis, several strategic opportunities emerge for Cyclistic to encourage casual riders to transition into annual members.
+Overall, the analysis reveals distinct behavioural differences between Casual riders and Annual members.
+
+Casual riders tend to take longer, leisure-oriented bike trips, while Annual members demonstrate shorter and more consistent ride patterns, likely associated with daily commuting.
+
+By leveraging these insights and recommendations, Cyclistic can implement targeted marketing strategies that encourage casual riders to transition into annual members, ultimately supporting the long term growth and customer retention.
+
+### Strategic recommendations
 
 - Target Casual riders with membership incentives for longer rides in particular or in relation to leisure or recreational activities.
 
@@ -211,21 +248,9 @@ Based on the patterns and trends identified during the analysis, several strateg
 
 - Leverage peak season demand by introducing various membership schemes during high activity months.
 
-- Implement targeted membership promotional campaigns offering incentives to casual riders who frequently use classic bikes for longer trips. These schemes can highlight the health and fitness benefits of cycling while encouraging continued usage and potentially motivating these riders to transition into annual memberships.
-
 ---
 
-# Conclusion
-
-Overall, the analysis reveals distinct behavioural differences between Casual riders and Annual members.
-
-Casual riders tend to take longer, leisure-oriented bike trips, while Annual members demonstrate shorter and more consistent ride patterns, likely associated with daily commuting.
-
-By leveraging these insights and recommendations, Cyclistic can implement targeted marketing strategies that encourage casual riders to transition into annual members, ultimately supporting the long term growth and customer retention.
-
----
-
-# Limitations
+## Limitations
 
 1. The dataset does not include demographic data or PII’s, limiting deeper analysis on customer segments.
 
@@ -234,3 +259,5 @@ By leveraging these insights and recommendations, Cyclistic can implement target
 3. The project does not include geographical analysis of the dataset, limiting insights on the geographical aspects of trip data.
 
 More data on customer segments, rider profiles etc can open doors to a deeper analysis and welcome more insights needed for decision-making.
+
+##### Note - The entire analysis is created in a reproducable manner and can be recreated by following each part step by step
