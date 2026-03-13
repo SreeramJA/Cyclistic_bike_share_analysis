@@ -185,3 +185,4 @@ print(bike_ride_frequency_graph)
 
 sessionInfo() 
 # ------------ END OF DATA VISUALISATION SCRIPT ------------  
+
